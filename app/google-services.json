@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "514832904582",
+    "firebase_url": "https://citycab-5d092.firebaseio.com",
+    "project_id": "citycab-5d092",
+    "storage_bucket": "citycab-5d092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514832904582:android:1444b438605d158b",
+        "android_client_info": {
+          "package_name": "dcom.citycab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514832904582-hta9c0huitpu20gdj0a31dlplq29qp0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfIJ_ERjarXkDBPPqxToOkiR7vouEX3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
